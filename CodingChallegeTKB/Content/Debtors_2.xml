@@ -1,0 +1,633 @@
+<?xml version="1.0"?>
+<ArrayOfDebtor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Debtor>
+    <Number>0572893</Number>
+    <Name>Antonius Bakker</Name>
+  </Debtor>
+  <Debtor>
+    <Number>0844363</Number>
+    <Name>Antonius van Dam Assurantiën NV</Name>
+    <Telephone>555-6522-696-6607</Telephone>
+    <Mobile>555-1688-716-7698</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0727678</Number>
+    <Name>Neeltje Sander Smit</Name>
+    <Email>info@neeltjesandersmit</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0332674</Number>
+    <Name>Antje Bos Glas NV</Name>
+    <Telephone>555-7859-299-7820</Telephone>
+    <Mobile>555-2416-923-4755</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0756064</Number>
+    <Name>Johan de Groot NV</Name>
+    <Telephone>555-7256-815-4557</Telephone>
+    <Mobile>555-7104-573-8218</Mobile>
+    <Email>info@johandegrootnv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0302293</Number>
+    <Name>Maria Cornelia Kok Assurantiën NV</Name>
+  </Debtor>
+  <Debtor>
+    <Number>0164620</Number>
+    <Name>Patricia Willem van der Heyden Advies</Name>
+    <Telephone>555-2984-944-2167</Telephone>
+    <Mobile>555-4369-396-6031</Mobile>
+    <Email>info@patriciawillemvanderheydenadvies</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0586428</Number>
+    <Name>Neeltje Dekker</Name>
+    <Telephone>555-4294-996-3974</Telephone>
+  </Debtor>
+  <Debtor>
+    <Number>0227056</Number>
+    <Name>Iris de Boer</Name>
+    <Mobile>555-7690-466-9097</Mobile>
+    <Email>info@irisdeboer</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0776599</Number>
+    <Name>Adrianus Sandra Vos Advies</Name>
+    <Telephone>555-7366-747-1146</Telephone>
+    <Mobile>555-6754-791-1580</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0711137</Number>
+    <Name>Jacoba Johannes Meyer Energie</Name>
+    <Telephone>555-3136-413-7911</Telephone>
+    <Mobile>555-3830-329-8553</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0989685</Number>
+    <Name>Geertje Jacobs</Name>
+    <Telephone>555-1302-908-6506</Telephone>
+  </Debtor>
+  <Debtor>
+    <Number>0469409</Number>
+    <Name>Marianne Margaretha Bakker Bloemisten</Name>
+  </Debtor>
+  <Debtor>
+    <Number>0378255</Number>
+    <Name>Pieter Jantje Meijer BV</Name>
+    <Telephone>555-2029-871-7323</Telephone>
+    <Mobile>555-7486-505-6020</Mobile>
+    <Email>info@pieterjantjemeijerbv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0666033</Number>
+    <Name>Eva Bos BV</Name>
+    <Mobile>555-8353-456-8571</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0928267</Number>
+    <Name>Sander van den Broek</Name>
+    <Telephone>555-4027-134-2362</Telephone>
+  </Debtor>
+  <Debtor>
+    <Number>0407013</Number>
+    <Name>Paul Hendriks</Name>
+    <Email>info@paulhendriks</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0667672</Number>
+    <Name>Michael Yvonne van Beek</Name>
+    <Telephone>555-8751-397-2951</Telephone>
+    <Mobile>555-1543-653-7000</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0481187</Number>
+    <Name>Catharina Kim de Bruin Management</Name>
+    <Telephone>555-6845-537-1997</Telephone>
+    <Mobile>555-8287-472-4436</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0050067</Number>
+    <Name>Hendrik Jantje Maas Uitgevers</Name>
+    <Telephone>555-4857-896-2647</Telephone>
+    <Email>info@hendrikjantjemaasuitgevers</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0147486</Number>
+    <Name>Pieter Dirk Willems International</Name>
+    <Telephone>555-1404-847-8303</Telephone>
+    <Mobile>555-3092-569-8223</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0349463</Number>
+    <Name>Nicolaas Petra Hoekstra</Name>
+    <Telephone>555-3303-905-5200</Telephone>
+    <Mobile>555-5759-581-8392</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0243351</Number>
+    <Name>Anna Sandra Visser Adviseurs</Name>
+    <Telephone>555-7538-186-5816</Telephone>
+    <Mobile>555-5644-366-9910</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0535401</Number>
+    <Name>Wilhelmus Marcel van de Berg Adviseurs NV</Name>
+    <Mobile>555-6191-153-7484</Mobile>
+    <Email>info@wilhelmusmarcelvandebergadviseursnv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0285683</Number>
+    <Name>Bernardus Thomas Peters Communicatie NV</Name>
+    <Telephone>555-9662-137-6360</Telephone>
+    <Email>info@bernardusthomaspeterscommunicatienv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0003425</Number>
+    <Name>Albert van der Berg Handelsonderneming NV</Name>
+    <Telephone>555-3676-776-9722</Telephone>
+    <Mobile>555-3513-700-4380</Mobile>
+    <Email>info@albertvanderberghandelsondernemingnv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0520040</Number>
+    <Name>Nicolaas Elisabeth Schouten NV</Name>
+  </Debtor>
+  <Debtor>
+    <Number>0266762</Number>
+    <Name>Jacobus Koster Bouw BV</Name>
+    <Email>info@jacobuskosterbouwbv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0554403</Number>
+    <Name>Michael de Graaf BV</Name>
+    <Mobile>555-1484-364-9585</Mobile>
+    <Email>info@michaeldegraafbv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0457030</Number>
+    <Name>Jacqueline Elizabeth Bos BV</Name>
+    <Telephone>555-1078-680-5832</Telephone>
+  </Debtor>
+  <Debtor>
+    <Number>0374189</Number>
+    <Name>Leonardus Sander Willems NV</Name>
+    <Telephone>555-9941-681-6768</Telephone>
+    <Email>info@leonardussanderwillemsnv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0292586</Number>
+    <Name>Paulus Mulder Incasso</Name>
+    <Telephone>555-4025-737-3397</Telephone>
+    <Mobile>555-6139-896-8325</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0483847</Number>
+    <Name>Hendrikus de Graaf</Name>
+    <Mobile>555-6197-588-1906</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0382318</Number>
+    <Name>Jacob Iris van der Heyden NV</Name>
+    <Telephone>555-1062-908-9792</Telephone>
+    <Mobile>555-2799-861-7451</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0409119</Number>
+    <Name>Anne van de Ven</Name>
+  </Debtor>
+  <Debtor>
+    <Number>0977435</Number>
+    <Name>Paulus Schouten</Name>
+    <Telephone>555-2897-249-4644</Telephone>
+    <Mobile>555-3635-808-2523</Mobile>
+    <Email>info@paulusschouten</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0259526</Number>
+    <Name>Yvonne Smits</Name>
+    <Telephone>555-7234-198-3422</Telephone>
+  </Debtor>
+  <Debtor>
+    <Number>0521039</Number>
+    <Name>Yvonne van den Heuvel</Name>
+    <Mobile>555-3332-665-9080</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0993209</Number>
+    <Name>Karin Anna Peters</Name>
+    <Telephone>555-5129-561-9171</Telephone>
+    <Mobile>555-4328-708-3994</Mobile>
+    <Email>info@karinannapeters</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0464938</Number>
+    <Name>Richard de Jong</Name>
+    <Telephone>555-6075-366-2170</Telephone>
+  </Debtor>
+  <Debtor>
+    <Number>0178736</Number>
+    <Name>Esther Leonardus van den Broek NV</Name>
+    <Telephone>555-6850-122-7584</Telephone>
+    <Mobile>555-8814-570-3603</Mobile>
+    <Email>info@estherleonardusvandenbroeknv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0523023</Number>
+    <Name>Theodorus Antonius de Jong Communicatie BV</Name>
+    <Telephone>555-9618-341-3976</Telephone>
+    <Mobile>555-4080-665-4002</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0391092</Number>
+    <Name>Petronella de Vries</Name>
+    <Telephone>555-3539-464-6379</Telephone>
+  </Debtor>
+  <Debtor>
+    <Number>0380195</Number>
+    <Name>Patrick Marinus van Leeuwen Uitgevers BV</Name>
+    <Telephone>555-5878-737-5983</Telephone>
+    <Mobile>555-6082-177-4504</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0301254</Number>
+    <Name>Grietje de Boer NV</Name>
+    <Telephone>555-5678-146-9996</Telephone>
+    <Mobile>555-4018-474-2873</Mobile>
+    <Email>info@grietjedeboernv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0247103</Number>
+    <Name>Gerardus Elizabeth de Haan NV</Name>
+    <Telephone>555-4004-863-5937</Telephone>
+    <Mobile>555-5017-896-4477</Mobile>
+    <Email>info@gerarduselizabethdehaannv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0031315</Number>
+    <Name>Nicolaas Johan Kok</Name>
+    <Mobile>555-7345-179-2860</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0291676</Number>
+    <Name>Tim Smits Bouwbedrijf BV</Name>
+    <Telephone>555-8768-729-6046</Telephone>
+  </Debtor>
+  <Debtor>
+    <Number>0605349</Number>
+    <Name>Peter van de Veen</Name>
+    <Telephone>555-6589-905-5019</Telephone>
+    <Mobile>555-3147-443-6165</Mobile>
+    <Email>info@petervandeveen</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0434299</Number>
+    <Name>Anne Mulder Bloemisten</Name>
+    <Telephone>555-6481-389-1647</Telephone>
+    <Email>info@annemulderbloemisten</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0385445</Number>
+    <Name>Dennis Helena Jacobs International</Name>
+    <Telephone>555-7041-584-9898</Telephone>
+  </Debtor>
+  <Debtor>
+    <Number>0718991</Number>
+    <Name>Jolanda Gerrit Smit</Name>
+    <Telephone>555-1015-601-1959</Telephone>
+    <Mobile>555-4224-658-9504</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0156088</Number>
+    <Name>Adrianus van Dijk</Name>
+    <Telephone>555-3383-605-2425</Telephone>
+    <Mobile>555-6835-936-7408</Mobile>
+    <Email>info@adrianusvandijk</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0615285</Number>
+    <Name>Astrid van de Veen Glas NV</Name>
+    <Telephone>555-9555-913-1987</Telephone>
+    <Mobile>555-1287-880-7382</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0882095</Number>
+    <Name>Linda Willems Advies</Name>
+    <Telephone>555-2316-696-1649</Telephone>
+    <Mobile>555-3773-655-2069</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0756900</Number>
+    <Name>Bianca Anna Huisman Beheer BV</Name>
+    <Telephone>555-8734-471-7283</Telephone>
+  </Debtor>
+  <Debtor>
+    <Number>0444336</Number>
+    <Name>Wilhelmus Martijn van Dam Energie</Name>
+    <Telephone>555-7028-133-2814</Telephone>
+    <Mobile>555-8598-531-1580</Mobile>
+    <Email>info@wilhelmusmartijnvandamenergie</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0406785</Number>
+    <Name>Franciscus Koster Advies NV</Name>
+    <Telephone>555-7125-547-1467</Telephone>
+    <Mobile>555-1238-346-8733</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0387003</Number>
+    <Name>Jantje van Dam</Name>
+    <Telephone>555-7181-935-6781</Telephone>
+    <Mobile>555-8858-537-8153</Mobile>
+    <Email>info@jantjevandam</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0695873</Number>
+    <Name>Yvonne Vermeulen NV</Name>
+    <Telephone>555-3135-185-9242</Telephone>
+    <Email>info@yvonnevermeulennv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0715566</Number>
+    <Name>Margaretha van der Veen Communicatie NV</Name>
+    <Email>info@margarethavanderveencommunicatienv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0907387</Number>
+    <Name>Elizabeth van der Veen NV</Name>
+    <Mobile>555-4550-433-5033</Mobile>
+    <Email>info@elizabethvanderveennv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0314349</Number>
+    <Name>Michael Meyer Assurantiën NV</Name>
+    <Mobile>555-6504-982-6912</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0418692</Number>
+    <Name>Theodora van de Ven Beton NV</Name>
+    <Mobile>555-9476-455-5230</Mobile>
+    <Email>info@theodoravandevenbetonnv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0948140</Number>
+    <Name>Wouter Neeltje de Jong</Name>
+    <Mobile>555-5631-171-6255</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0667470</Number>
+    <Name>Petra Smit</Name>
+    <Telephone>555-4101-634-6100</Telephone>
+    <Mobile>555-4396-103-8082</Mobile>
+    <Email>info@petrasmit</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0861336</Number>
+    <Name>Johanna Hoekstra Adviseurs BV</Name>
+    <Telephone>555-9588-439-1388</Telephone>
+    <Mobile>555-5838-282-9573</Mobile>
+    <Email>info@johannahoekstraadviseursbv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0762957</Number>
+    <Name>Gerrit Paul de Vries Incasso NV</Name>
+    <Telephone>555-1692-314-5512</Telephone>
+    <Mobile>555-7157-297-5819</Mobile>
+    <Email>info@gerritpauldevriesincassonv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0861623</Number>
+    <Name>Franciscus René van der Linden</Name>
+    <Telephone>555-7938-284-2276</Telephone>
+  </Debtor>
+  <Debtor>
+    <Number>0867430</Number>
+    <Name>Karin Theodora van de Veen NV</Name>
+    <Mobile>555-9647-667-8511</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0911401</Number>
+    <Name>Anna Monique Smits BV</Name>
+    <Telephone>555-6463-127-4648</Telephone>
+    <Mobile>555-6129-705-6464</Mobile>
+    <Email>info@annamoniquesmitsbv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0982730</Number>
+    <Name>Chantal Nicolaas de Bruin Adviseurs</Name>
+    <Mobile>555-5918-301-7555</Mobile>
+    <Email>info@chantalnicolaasdebruinadviseurs</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0837619</Number>
+    <Name>Laura Nicolaas Vos</Name>
+  </Debtor>
+  <Debtor>
+    <Number>0057902</Number>
+    <Name>Marco Willem Vermeulen</Name>
+    <Mobile>555-8834-152-7324</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0166263</Number>
+    <Name>Alexander van der Veen Management NV</Name>
+    <Mobile>555-9699-835-2293</Mobile>
+    <Email>info@alexandervanderveenmanagementnv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0202708</Number>
+    <Name>Kim de Bruijn Bloemisten</Name>
+    <Telephone>555-3565-130-2142</Telephone>
+    <Mobile>555-7577-989-1089</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0682420</Number>
+    <Name>Peter Pieter van der Berg Energie</Name>
+    <Mobile>555-1057-207-4316</Mobile>
+    <Email>info@peterpietervanderbergenergie</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0816541</Number>
+    <Name>Neeltje de Bruyn Bouwbedrijf BV</Name>
+    <Telephone>555-3641-223-8828</Telephone>
+    <Email>info@neeltjedebruynbouwbedrijfbv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0664324</Number>
+    <Name>Patricia Smit</Name>
+    <Telephone>555-2508-340-5359</Telephone>
+    <Mobile>555-2049-777-6479</Mobile>
+    <Email>info@patriciasmit</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0641881</Number>
+    <Name>Michael Thomas Jacobs Incasso BV</Name>
+    <Telephone>555-3552-455-8576</Telephone>
+    <Mobile>555-7236-650-5444</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0773881</Number>
+    <Name>Petronella Vermeulen International</Name>
+    <Telephone>555-2642-919-1307</Telephone>
+    <Mobile>555-1834-933-1413</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0228923</Number>
+    <Name>Elizabeth de Jong</Name>
+    <Telephone>555-4319-993-4919</Telephone>
+  </Debtor>
+  <Debtor>
+    <Number>0237191</Number>
+    <Name>Grietje Aaltje van Dijk</Name>
+    <Email>info@grietjeaaltjevandijk</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0175317</Number>
+    <Name>Jolanda Karin Jansen</Name>
+    <Telephone>555-5086-687-4446</Telephone>
+    <Mobile>555-8488-217-4100</Mobile>
+    <Email>info@jolandakarinjansen</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0186021</Number>
+    <Name>Richard Antje Visser NV</Name>
+    <Telephone>555-6651-840-1073</Telephone>
+    <Email>info@richardantjevissernv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0455707</Number>
+    <Name>Tim van de Ven Energie</Name>
+    <Telephone>555-9705-576-8772</Telephone>
+    <Email>info@timvandevenenergie</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0688492</Number>
+    <Name>Martijn Janssen Assurantiën NV</Name>
+    <Telephone>555-1152-306-1068</Telephone>
+    <Email>info@martijnjanssenassurantiënnv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0645667</Number>
+    <Name>Dirk Eva Brouwer NV</Name>
+    <Telephone>555-3288-102-8639</Telephone>
+    <Mobile>555-6249-451-3652</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0274439</Number>
+    <Name>Adrianus Cornelia Verhoeven NV</Name>
+    <Telephone>555-7818-838-6209</Telephone>
+    <Mobile>555-5025-760-3150</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0449527</Number>
+    <Name>Aaltje van Dijk Adviseurs</Name>
+    <Telephone>555-7396-316-7289</Telephone>
+    <Mobile>555-9736-749-9789</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0863880</Number>
+    <Name>Laura van de Wal</Name>
+    <Telephone>555-6187-959-5250</Telephone>
+    <Mobile>555-6621-599-2037</Mobile>
+    <Email>info@lauravandewal</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0648369</Number>
+    <Name>Maria Johan Visser Communicatie BV</Name>
+    <Telephone>555-4910-753-1312</Telephone>
+    <Mobile>555-1888-641-4969</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0970410</Number>
+    <Name>Maarten Ingrid de Vries NV</Name>
+    <Telephone>555-3396-340-2400</Telephone>
+  </Debtor>
+  <Debtor>
+    <Number>0322489</Number>
+    <Name>Leonardus Tim Maas</Name>
+    <Telephone>555-9595-524-8013</Telephone>
+    <Email>info@leonardustimmaas</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0373650</Number>
+    <Name>Petronella Bakker BV</Name>
+    <Telephone>555-5348-971-8722</Telephone>
+    <Mobile>555-7701-717-6161</Mobile>
+    <Email>info@petronellabakkerbv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0309269</Number>
+    <Name>Marco Aaltje Meyer Bloemisten BV</Name>
+    <Telephone>555-9969-875-9017</Telephone>
+  </Debtor>
+  <Debtor>
+    <Number>0851061</Number>
+    <Name>Alexander van den Berg NV</Name>
+    <Telephone>555-5417-454-1040</Telephone>
+    <Mobile>555-2928-419-3962</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0011031</Number>
+    <Name>Laura de Bruyn Bouwbedrijf BV</Name>
+    <Telephone>555-5278-732-5733</Telephone>
+    <Mobile>555-6330-741-6400</Mobile>
+    <Email>info@lauradebruynbouwbedrijfbv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0491076</Number>
+    <Name>Nicolaas Jeroen Dijkstra</Name>
+    <Telephone>555-8452-662-6698</Telephone>
+    <Mobile>555-4738-663-8447</Mobile>
+    <Email>info@nicolaasjeroendijkstra</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0786018</Number>
+    <Name>Antonia Hendrika de Vries NV</Name>
+    <Telephone>555-7371-197-5687</Telephone>
+    <Mobile>555-3630-437-6099</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0506812</Number>
+    <Name>Laura Anna Hendriks NV</Name>
+    <Mobile>555-2657-153-1689</Mobile>
+    <Email>info@lauraannahendriksnv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0712426</Number>
+    <Name>Antje Antonia van Beek</Name>
+    <Mobile>555-1226-583-2206</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0332504</Number>
+    <Name>Erik Prins Glas NV</Name>
+    <Telephone>555-4040-913-4745</Telephone>
+    <Mobile>555-1760-609-3677</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0410414</Number>
+    <Name>Elisabeth Dekker</Name>
+    <Telephone>555-4509-126-5686</Telephone>
+    <Mobile>555-1139-819-3585</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0768569</Number>
+    <Name>Christina Wilhelmina Bos</Name>
+    <Telephone>555-2627-628-4776</Telephone>
+    <Email>info@christinawilhelminabos</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0545555</Number>
+    <Name>Jolanda Patricia van der Heyden BV</Name>
+    <Telephone>555-5982-315-4585</Telephone>
+  </Debtor>
+  <Debtor>
+    <Number>0729890</Number>
+    <Name>Nicolaas Pieter Dijkstra BV</Name>
+    <Mobile>555-1293-800-7088</Mobile>
+  </Debtor>
+  <Debtor>
+    <Number>0824024</Number>
+    <Name>Trijntje van den Broek International</Name>
+    <Telephone>555-6072-987-4236</Telephone>
+    <Mobile>555-8881-849-8794</Mobile>
+    <Email>info@trijntjevandenbroekinternational</Email>
+  </Debtor>
+</ArrayOfDebtor>

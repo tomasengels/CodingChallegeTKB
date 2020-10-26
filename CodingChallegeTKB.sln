@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingChallegeTKB", "CodingChallegeTKB\CodingChallegeTKB.csproj", "{A8DCC0F3-C7F7-48B8-B620-D6C239C11718}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CodingChallenge", "CodingChallenge", "{2288C53F-34B3-4CBE-AF23-ECD7DC8C4603}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\Coding challenge\Coding challenge TKB.docx = ..\..\..\Downloads\Coding challenge\Coding challenge TKB.docx
+		..\..\..\Downloads\Coding challenge\Debtors.sql = ..\..\..\Downloads\Coding challenge\Debtors.sql
+		..\..\..\Downloads\Coding challenge\Debtors.xsd = ..\..\..\Downloads\Coding challenge\Debtors.xsd
+		..\..\..\Downloads\Coding challenge\Debtors_1.xml = ..\..\..\Downloads\Coding challenge\Debtors_1.xml
+		..\..\..\Downloads\Coding challenge\Debtors_2.xml = ..\..\..\Downloads\Coding challenge\Debtors_2.xml
+		..\..\..\Downloads\Coding challenge\Debtors_3.xml = ..\..\..\Downloads\Coding challenge\Debtors_3.xml
+		..\..\..\Downloads\Coding challenge\Debtors_4.xml = ..\..\..\Downloads\Coding challenge\Debtors_4.xml
+		..\..\..\Downloads\Coding challenge\new 1 - Copy.xml = ..\..\..\Downloads\Coding challenge\new 1 - Copy.xml
+		..\..\..\Downloads\Coding challenge\new 1.xml = ..\..\..\Downloads\Coding challenge\new 1.xml
+		..\..\..\Downloads\Coding challenge\newSchema.xsd = ..\..\..\Downloads\Coding challenge\newSchema.xsd
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8DCC0F3-C7F7-48B8-B620-D6C239C11718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8DCC0F3-C7F7-48B8-B620-D6C239C11718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8DCC0F3-C7F7-48B8-B620-D6C239C11718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8DCC0F3-C7F7-48B8-B620-D6C239C11718}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA3132C0-B2CB-4EC9-8280-3CE0C9E2EBE9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+
+    @using (Html.BeginForm("Index", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <h1>XML file</h1>
+        <input type="file" name="xmlFile" />
+        <input type="submit" value="Import" />
+
+        @ViewBag.Message
+    }
+</div>
