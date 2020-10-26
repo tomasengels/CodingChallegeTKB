@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ArrayOfDebtor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Debtor>
+    <Number>0844363</Number>
+    <Name>Tito van Dam Assurantiën NV</Name>
+    <Telephone>555-6522-696-6607</Telephone>
+    <Mobile>555-1688-716-7698</Mobile>
+	<Email>info@johandegrootnv</Email>
+  </Debtor>
+</ArrayOfDebtor>

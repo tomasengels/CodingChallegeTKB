@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfDebtor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Debtor>
+    <Number>0844363</Number>
+    <Name>Antonius van Dam Assurantiën NV</Name>
+    <Telephone>555-6522-696-6607</Telephone>
+    <Mobile>555-1688-716-7698</Mobile>
+	<Email>info@johandegrootnv</Email>
+  </Debtor>
+  <Debtor>
+    <Number>0756064</Number>
+    <Name>Johan de Groot NV</Name>
+    <Telephone>555-7256-815-4557</Telephone>
+    <Mobile>555-7104-573-8218</Mobile>
+    <Email>info@johandegrootnv</Email>
+  </Debtor>
+</ArrayOfDebtor>

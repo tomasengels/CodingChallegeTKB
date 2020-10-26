@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xsd:schema xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:xsd='http://www.w3.org/2001/XMLSchema'>
+   <xs:simpleType name='string'>
+      <xs:restriction base='xs:string'>
+         <xs:maxLength value='255' />
+      </xs:restriction>
+   </xs:simpleType>
+
+   <xs:element name='ArrayOfDebtor'>
+      <xs:complexType>
+         <xs:sequence>
+            <!-- Debiteur -->
+            <xs:element minOccurs='0' maxOccurs='unbounded' name='Debtor'>
+               <xs:complexType>
+                  <xs:sequence>
+                     <!-- Debiteurnummer; verplicht; string; maximum lengte 255 -->
+                     <xs:element name='Number' type='string' />
+
+                     <!-- Debiteurnaam; verplicht; string; maximum lengte 255 -->
+                     <xs:element name='Name' type='string' />
+
+                     <!-- Telefoonnummer debiteur; optioneel; string; maximum lengte 255 -->
+                     <xs:element name='Telephone' type='string' minOccurs='0' />
+
+                     <!-- Mobiel telefoonnummer debiteur; optioneel; string; maximum lengte 255 -->
+                     <xs:element name='Mobile' type='string' minOccurs='0' />
+
+                     <!-- E-mailadres debiteur; optioneel; string; maximum lengte 255 -->
+                     <xs:element name='Email' type='string' minOccurs='0' />
+                  </xs:sequence>
+               </xs:complexType>
+            </xs:element>
+         </xs:sequence>
+      </xs:complexType>
+
+      <!-- Voor de gehele import mogen er niet meerdere debiteuren met hetzelfde nummer voorkomen. -->
+      <xs:key name='DebtorNumber'>
+         <xs:selector xpath='Debtor' />
+         <xs:field xpath='Number' />
+      </xs:key>
+   </xs:element>
+</xsd:schema>
